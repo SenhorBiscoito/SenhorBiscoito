@@ -10,6 +10,10 @@ I'm currently working as Full Stack Developer at
 [<img align="left" alt="React" width="30px" src="https://cdn.discordapp.com/emojis/805913808542892093.png?v=1" />](https://pt-br.reactjs.org)
 [<img align="left" alt="Typescript" width="30px" src="https://cdn.discordapp.com/emojis/805913809108860978.png?v=1" />](https://www.typescriptlang.org/)
 [<img align="left" alt="Nodejs" width="30px" src="https://cdn.discordapp.com/emojis/805913808677503046.png?v=1" />](https://nodejs.org/en/)
+[<img align="left" alt="Docker" width="30px" src="https://cdn.discordapp.com/emojis/805913808476438578.png?v=1" />](https://www.docker.com/)
+[<img align="left" alt="Html" width="30px" src="https://cdn.discordapp.com/emojis/787076721907204126.png?v=1" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img align="left" alt="Css" width="30px" src="https://cdn.discordapp.com/emojis/787076754950324264.png?v=1" />](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img align="left" alt="Javascript" width="30px" src="https://cdn.discordapp.com/emojis/786740835206430720.png?v=1" />](https://www.javascript.com/)
 [<img align="left" alt="Github" width="30px" src="https://cdn.discordapp.com/emojis/805913808848683028.png?v=1" />](https://github.com/)
 
 
