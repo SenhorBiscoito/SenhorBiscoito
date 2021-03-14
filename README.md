@@ -18,6 +18,8 @@ I'm currently working as Full Stack Developer at
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SenhorBiscoito)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SenhorBiscoito&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ##### Connect with me!
 
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mirandajean)
