@@ -7,7 +7,13 @@ I'm currently working as Full Stack Developer at
 
 ##### Technology Stack
 
-[<img align="left" alt="Typescript" width="30px" src="https://cdn.discordapp.com/emojis/805913808542892093.png?v=1" />](https://nodejs.org/en/)
+[<img align="left" alt="React" width="30px" src="https://cdn.discordapp.com/emojis/805913808542892093.png?v=1" />](https://pt-br.reactjs.org)
+[<img align="left" alt="Typescript" width="30px" src="https://cdn.discordapp.com/emojis/805913809108860978.png?v=1" />](https://www.typescriptlang.org/)
+[<img align="left" alt="Nodejs" width="30px" src="https://cdn.discordapp.com/emojis/805913808677503046.png?v=1" />](https://nodejs.org/en/)
+[<img align="left" alt="Github" width="30px" src="https://cdn.discordapp.com/emojis/805913808848683028.png?v=1" />](https://github.com/)
+
+
+
 <br/><br/>
 
 ##### My Stats
