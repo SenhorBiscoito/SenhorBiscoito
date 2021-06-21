@@ -30,5 +30,10 @@ I'm currently working as Full Stack Developer at
 
 ##### Connect with me!
 
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mirandajean)
+<p align="left">
+    <a href="https://www.linkedin.com/in/mirandajean" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirandajean"></a>
+    <a href="https://www.instagram.com/jean_mirandas" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jean_mirandas"></a>
+</p>
 <br/><br/>
