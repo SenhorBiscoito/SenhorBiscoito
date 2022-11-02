@@ -1,4 +1,4 @@
-# Hi Dev! I'm SenhorBiscoito <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi Dev! I'm jeny3g <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm currently working as Full Stack Developer at
 <br/><br/>
@@ -24,9 +24,9 @@ I'm currently working as Full Stack Developer at
 
 <img align="right" src="https://i.ibb.co/djG9PFq/dev.gif" height="320px">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SenhorBiscoito)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeny3g)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SenhorBiscoito&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeny3g&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Connect with me!
 
