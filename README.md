@@ -2,7 +2,7 @@
 
 I'm currently working as Full Stack Developer at
 <br/><br/>
-[<img align="left" alt="Iteris" src="https://www.iteris.com.br/Iteris.Site.Cms.Theme/img/logo.svg" width="192px">](https://www.iteris.com.br)
+[<img align="left" alt="Iteris" src="https://www.iteris.com.br/wp-content/themes/iteris/svg/logo.svg" width="192px">](https://www.iteris.com.br)
 <br/><br/>
 
 ##### Technology Stack
